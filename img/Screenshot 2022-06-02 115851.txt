@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Sticky Navbar | Vanilla Javascript</titile>
+<link rel="stylesheet" href="style.css">
+SY ATP
+Ba tlSVo
+Bou Tt abd
+<a href="#" class="logo">Logo</a>
+cathe
+ROBES CMa tee bs Sd teed
+<li><a href="#">About</a></1i>
+RSEE TOs ede abn ho 5 7 bd Bee
+RSEe SM ede Mle aie) 61d bts Bee
+SPT CMs te Palo eee need
+RSET ee ele <add eee
+
+     
+
+18 c7/aaes
+19  </header>
+2 </body>
+
+ya ered
+
