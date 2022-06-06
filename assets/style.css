@@ -149,7 +149,7 @@ section:nth-child(even){
 }
 
 .home .content span{
-    font-size: 18rem;
+    font-size: 10rem;
     display:inline-block;
     animation:move 3s ease-in-out infinite;
 }
@@ -202,7 +202,7 @@ section:nth-child(even){
 }
 
 
-}
+
 .home .contents span:nth-child(2){
     animation-delay:0.5s;
 }
@@ -803,13 +803,14 @@ hr {
 
 .blog-right {
     flex-basis: 32%;
+    
 }
 
 .blog-right h3 {
     background: #777;
     color: #fff;
     padding: 7px 0;
-    font-size: 20px;
+    font-size: 40px;
     margin-bottom: 20px;
     text-align: center;
 }
@@ -820,6 +821,7 @@ hr {
     justify-content: space-between;
     color: #555;
     padding: 8px;
+    font-size: 1.5em;
     box-sizing: border-box;
 }
 
